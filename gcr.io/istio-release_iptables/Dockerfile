@@ -1,0 +1,1 @@
+FROM gcr.io/istio-release/iptables@sha256:e5bbbcdab26db1b5bf580bd823204dc82485545e27ce877ca2ad2eb0dc3b55a0
