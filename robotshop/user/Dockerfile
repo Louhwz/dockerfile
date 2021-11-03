@@ -1,1 +1,1 @@
-FROM rs-user:latest
+FROM robotshop/rs-user:latest

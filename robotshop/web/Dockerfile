@@ -1,1 +1,1 @@
-FROM rs-web:latest
+FROM robotshop/rs-web:latest
