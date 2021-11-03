@@ -1,0 +1,1 @@
+FROM rs-web:latest

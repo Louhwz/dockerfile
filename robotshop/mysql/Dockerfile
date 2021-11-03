@@ -1,0 +1,1 @@
+FROM robotshop/rs-mysql-db:latest

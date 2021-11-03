@@ -1,0 +1,1 @@
+FROM robotshop/rs-mongodb:latest
